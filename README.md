@@ -10,11 +10,11 @@ Run development server $ python manage.py runserver
 Django Overview
 For more notes, take a look at the notes folder in this repo.
 
-Models: Check out my model notes
+Models: Check model Django Documentation notes
 
-Templates: Check out my template notes
+Templates: Check out template Django Documentation notes
 
-Views: Check out my view notes
+Views: Check  view Django Documentation notes
 
 Basic steps to create an app
 Check out my step-by-step cheet sheet
